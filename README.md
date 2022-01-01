@@ -32,4 +32,4 @@ Finally, update the values of the fields with the 'Update' button (inserting the
 
 ## LICENSE
 
-LICENSE: [GNU General Public License v3](LICENSE).
+This program is distributed under the license [GNU General Public License v3](LICENSE), please read the license for information on program distribution and availability.
